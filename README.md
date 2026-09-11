@@ -37,33 +37,9 @@ Dentro de cada ejercicio:
 
 `0.0` es opcional: una probadita condensada de 0.1 + el arranque de 0.2, pensada para una sola sesión con principiantes totales. Para profundizar de verdad, el camino recomendado sigue siendo el orden completo: 0.2 da por hecho que ya sabes moverte en la terminal (0.1), y 0.3/0.4 (cuando se agreguen) van a dar por hecho que ya sabes subir tu código a GitHub (0.2).
 
-## Cómo usar esto con los alumnos
+## Cómo usar esto 
 
-1. Comparte la carpeta del ejercicio correspondiente (o el link a su `README.md` si ya está en GitHub).
-2. El alumno sigue los pasos de ese `README.md` en su propia computadora.
-3. El alumno compara su resultado contra `resultado-esperado/` y contra la sección "Resultado esperado" del `README.md`.
-4. El alumno entrega lo que pida la sección "Checklist de entrega" de cada ejercicio.
+1. Sigue los pasos de ese `README.md` en su propia computadora.
+2. Compara su resultado contra `resultado-esperado/` y contra la sección "Resultado esperado" del `README.md`.
+3. Entrega lo que pida la sección "Checklist de entrega" de cada ejercicio.
 
-## Subir este repositorio de materiales a GitHub
-
-Esta carpeta todavía no es un repositorio Git. Si quieres publicarla (por ejemplo, para compartir el link con tus alumnos en vez de mandarles archivos sueltos):
-
-```powershell
-# Parado en C:\dev\developer-experience-basic
-git init
-git branch -M main
-git add .
-git commit -m "Agrega ejercicios 0.1 y 0.2 del Bloque 0"
-
-# Crea antes un repositorio VACÍO en github.com (sin README, sin .gitignore)
-git remote add origin https://github.com/<tu-usuario>/developer-experience-basic.git
-git push -u origin main
-```
-
-De ahí en adelante, cada vez que agregues un ejercicio nuevo:
-
-```powershell
-git add .
-git commit -m "Agrega ejercicio 0.3 — Módulos en JavaScript"
-git push
-```
