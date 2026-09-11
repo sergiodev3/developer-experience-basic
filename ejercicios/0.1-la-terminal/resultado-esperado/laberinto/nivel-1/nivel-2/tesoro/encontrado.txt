@@ -1,0 +1,4 @@
+Contenido genérico de referencia.
+
+Este archivo representa el "encontrado.txt" que debes crear tú mismo,
+desde la terminal, en el paso 3 del ejercicio 0.1.

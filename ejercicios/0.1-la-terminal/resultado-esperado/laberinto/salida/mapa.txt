@@ -1,0 +1,5 @@
+Contenido genérico de referencia.
+
+Este archivo representa el "mapa.txt" que debes crear tú mismo, desde
+la terminal, en el paso 4 del ejercicio 0.1 — usando una ruta relativa
+(con "..") desde la carpeta "tesoro", sin escribir la ruta absoluta.

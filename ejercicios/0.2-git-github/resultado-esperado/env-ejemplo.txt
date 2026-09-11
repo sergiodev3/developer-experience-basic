@@ -1,0 +1,8 @@
+Este archivo NO es un .env real — es solo para mostrar qué contenido
+debe llevar el .env que tú crees durante el paso 5 del ejercicio, y que
+tu .gitignore debe dejar fuera del repositorio:
+
+SECRETO=123
+
+Si al correr "git status" este contenido apareciera como archivo nuevo
+detectado por Git, tu .gitignore no está funcionando todavía.

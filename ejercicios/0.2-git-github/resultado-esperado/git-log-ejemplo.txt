@@ -1,0 +1,8 @@
+Ejemplo genérico de cómo debería verse "git log --oneline" al terminar
+la Parte A del ejercicio (5 commits, del más nuevo al más viejo):
+
+a4f9c21 Agrega .gitignore para proteger .env y node_modules
+7d2e8b0 Crea notas.md con aprendizajes del bloque 0.1
+c1a4f56 Agrega comentario explicativo a src/index.js
+9b3d7e2 Crea src/index.js con función de ejemplo
+e0f1a88 Agrega README inicial con mi nombre

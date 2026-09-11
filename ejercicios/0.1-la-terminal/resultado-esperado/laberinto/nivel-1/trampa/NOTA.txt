@@ -1,0 +1,5 @@
+Contenido genérico de referencia.
+
+Esta carpeta es la "trampa" del laberinto: existe a propósito para que
+practiques usar ".." y confirmar en qué carpeta estás antes de seguir
+navegando. No contiene el tesoro.
