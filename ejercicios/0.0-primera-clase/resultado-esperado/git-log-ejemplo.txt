@@ -1,0 +1,6 @@
+Ejemplo genérico de cómo debería verse "git log --oneline" al terminar
+la Clase 1 (3 commits, del más nuevo al más viejo):
+
+c3f8a12 Agrega .gitignore para proteger .env y node_modules
+7b1d4e9 Agrega hola-mundo.js
+e0f1a88 Agrega README inicial con mi nombre

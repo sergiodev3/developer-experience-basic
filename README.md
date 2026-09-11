@@ -29,12 +29,13 @@ Dentro de cada ejercicio:
 
 | # | Ejercicio | Carpeta | Duración | Estado |
 |---|---|---|---|---|
+| 0 | Primera clase (intro rápida: terminal + hola mundo JS + Git/GitHub) | [`ejercicios/0.0-primera-clase/`](ejercicios/0.0-primera-clase/README.md) | 2 hrs | ✅ Disponible |
 | 1 | La terminal | [`ejercicios/0.1-la-terminal/`](ejercicios/0.1-la-terminal/README.md) | 3 hrs | ✅ Disponible |
 | 2 | Git y GitHub | [`ejercicios/0.2-git-github/`](ejercicios/0.2-git-github/README.md) | 5 hrs | ✅ Disponible |
 | 3 | Módulos en JavaScript (`import`/`export`) | `ejercicios/0.3-modulos-js/` | 3 hrs | ⏳ Pendiente |
 | 4 | Flujo, errores y JSON | `ejercicios/0.4-flujo-errores-json/` | 3 hrs | ⏳ Pendiente |
 
-Sigue el orden: 0.2 da por hecho que ya sabes moverte en la terminal (0.1), y 0.3/0.4 (cuando se agreguen) van a dar por hecho que ya sabes subir tu código a GitHub (0.2).
+`0.0` es opcional: una probadita condensada de 0.1 + el arranque de 0.2, pensada para una sola sesión con principiantes totales. Para profundizar de verdad, el camino recomendado sigue siendo el orden completo: 0.2 da por hecho que ya sabes moverte en la terminal (0.1), y 0.3/0.4 (cuando se agreguen) van a dar por hecho que ya sabes subir tu código a GitHub (0.2).
 
 ## Cómo usar esto con los alumnos
 
