@@ -7,3 +7,7 @@ function saludar(nombre) {
 }
 
 console.log(saludar("mundo"));
+
+
+let helloWorld = () => 'Hola Mundo!';
+

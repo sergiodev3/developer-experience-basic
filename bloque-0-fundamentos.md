@@ -1,6 +1,5 @@
 # Bloque 0 — Taller de fundamentos del desarrollador
 
-**Duración: 14 horas clase** · 
 **Competencia oficial que cubre:** *configuración del entorno de programación*.
 
 ---
